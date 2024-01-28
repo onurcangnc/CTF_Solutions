@@ -6,7 +6,6 @@ Welcome to the CTF Answers Repository! This repository is dedicated to documenti
 
 - [Introduction](#introduction)
 - [Platforms](#platforms)
-- [How to Contribute](#how-to-contribute)
 - [Contact](#contact)
 - [License](#license)
 
