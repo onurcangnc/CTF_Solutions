@@ -1,6 +1,6 @@
 # CTF Answers Repository
 
-Welcome to the CTF Answers Repository! This repository is dedicated to documenting solutions and write-ups for Capture The Flag (CTF) challenges from various platforms, including Hack The Box (HTB), Vulnerday, Hackvisor, Hackviser, and CyberExam.
+Welcome to the CTF Answers Repository! This repository is dedicated to documenting solutions and write-ups for Capture The Flag (CTF) challenges from various platforms, including Hack The Box (HTB), Vulnerday, Hackviser, and CyberExam.
 
 ## Table of Contents
 
@@ -17,7 +17,6 @@ Capture The Flag (CTF) competitions are a great way to test and improve your cyb
 
 - [Hack The Box (HTB)](htb/)
 - [Vulnerday](Vulnerday/)
-- [Hackvisor](hackvisor/)
 - [Hackviser](hackviser/)
 - [CyberExam](cyberexam/)
 
